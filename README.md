@@ -13,4 +13,6 @@ Files for visualization. In .env file please insert values for next variables:
 - number_of_cancelations_by_month
 - percent_of_tot_book_percent_of_tot_revenue
 - revenue_by_time
-- tot_revenue_avg_rating_by_year_by_month 
+- tot_revenue_avg_rating_by_year_by_month
+
+## To run notebook you must first install and start jupyter: https://jupyter.org/install
